@@ -1,3 +1,15 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Default.aspx](./CS/T339643/Default.aspx) (VB: [Default.aspx.vb](./VB/T339643/Default.aspx.vb))
+* [Default.aspx.cs](./CS/T339643/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/T339643/Default.aspx.vb))
+* [Global.asax.cs](./CS/T339643/Global.asax.cs) (VB: [Global.asax.vb](./VB/T339643/Global.asax.vb))
+* [ReportDataItem.cs](./CS/T339643/ReportDataItem.cs) (VB: [ReportDataItem.vb](./VB/T339643/ReportDataItem.vb))
+* [SampleReport.cs](./CS/T339643/SampleReport.cs) (VB: [SampleReport.vb](./VB/T339643/SampleReport.vb))
+* [SampleReport.Designer.cs](./CS/T339643/SampleReport.Designer.cs) (VB: [SampleReport.Designer.vb](./VB/T339643/SampleReport.Designer.vb))
+* **[SampleReportStorageWebExtension.cs](./CS/T339643/SampleReportStorageWebExtension.cs) (VB: [SampleReportStorageWebExtension.vb](./VB/T339643/SampleReportStorageWebExtension.vb))**
+* [Web.config](./CS/T339643/Web.config) (VB: [Web.config](./VB/T339643/Web.config))
+<!-- default file list end -->
 # How to access the values stored in HttpContext/Session while working with the ASP.NET HTML5 Document Viewer and End-User Report Designer controls
 
 
